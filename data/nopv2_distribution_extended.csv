@@ -1,0 +1,31 @@
+country,region,district,campaign_date,doses_received,doses_administered,target_population,wastage
+Ghana,Greater Accra,Ablekuma North,2024-08,16095,15179,18763,916
+Ghana,Greater Accra,Ada East,2024-08,7707,17254,19630,0
+Ghana,Greater Accra,La Dade Kotopon,2024-08,10162,10993,14000,0
+Ghana,Greater Accra,Tema West,2024-08,13434,11981,14367,1453
+Ghana,Greater Accra,Ga South,2024-08,9210,13505,17189,0
+Ghana,Ashanti,Kumasi Metro,2024-08,6227,16123,20132,0
+Ghana,Ashanti,Ejisu,2024-08,12172,7195,9042,4977
+Ghana,Ashanti,Obuasi,2024-08,14648,14548,15039,100
+Ghana,Ashanti,Mampong,2024-08,10064,10072,10324,0
+Ghana,Ashanti,Bekwai,2024-08,9092,13124,14034,0
+Ghana,Northern,Tamale Metro,2024-08,6216,17147,18290,0
+Ghana,Northern,Savelugu,2024-08,14562,5971,7461,8591
+Ghana,Northern,Yendi,2024-08,19670,16310,20062,3360
+Ghana,Northern,Tolon,2024-08,8492,11795,12893,0
+Ghana,Northern,Karaga,2024-08,12545,6804,7033,5741
+Ghana,Upper East,Bolgatanga,2024-08,12805,13386,17314,0
+Ghana,Upper East,Bawku West,2024-08,10365,7447,8754,2918
+Ghana,Upper East,Navrongo,2024-08,17629,10255,12663,7374
+Ghana,Upper East,Talensi,2024-08,17341,14866,17019,2475
+Ghana,Upper East,Pusiga,2024-08,9836,14538,16157,0
+Ghana,Volta,Ho,2024-08,10584,12995,16001,0
+Ghana,Volta,Keta,2024-08,18651,14038,16567,4613
+Ghana,Volta,Hohoe,2024-08,12630,13789,15913,0
+Ghana,Volta,Akatsi,2024-08,9549,10645,13763,0
+Ghana,Volta,Kpando,2024-08,10452,8438,10690,2014
+Ghana,Oti,Krachi East,2024-08,18518,6538,7352,11980
+Ghana,Oti,Jasikan,2024-08,17165,11428,14893,5737
+Ghana,Oti,Nkwanta South,2024-08,20772,17489,19491,3283
+Ghana,Oti,Kadjebi,2024-08,16344,9597,11386,6747
+Ghana,Oti,Biakoye,2024-08,10592,14833,17906,0
