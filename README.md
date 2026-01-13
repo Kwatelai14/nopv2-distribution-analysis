@@ -4,7 +4,6 @@ This project analyzes the distribution, utilization, and coverage of nOPV2
 during a simulated polio outbreak response.
 
 🔗 **Live Project Site**  
-https://yourusername.github.io/nopv2-distribution-analysis/
 https://kwatelai14.github.io/nopv2-distribution-analysis/
 
 ## Tools
@@ -45,4 +44,17 @@ indicators used in polio outbreak response.
 - Improve microplanning and demand forecasting
 - Strengthen real-time vaccine logistics monitoring
 - Target supportive supervision in underperforming areas
+
+## Column and column meanings
+| Column             | Meaning               |
+| ------------------ | --------------------- |
+| country            | Country of campaign   |
+| region             | Administrative region |
+| district           | District/metro        |
+| campaign_date      | Month of SIA          |
+| doses_received     | nOPV2 doses supplied  |
+| doses_administered | Doses given           |
+| target_population  | Eligible children     |
+| wastage            | Unused/expired doses  |
+
 
